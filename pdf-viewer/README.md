@@ -1,5 +1,8 @@
 # LWC - Component to display PDF documents
 
+![Pdf Viewer](img/pdfViewer-1.png)
+
+
 ## Topics
 - [Setup](#setup)
 - [Using the PDFViewer Component](#using)
