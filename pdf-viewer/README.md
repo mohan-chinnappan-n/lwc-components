@@ -2,7 +2,7 @@
 
 ## Topics
 - [Setup](#setup)
-- [Using the PDFViewer Component)(#using)
+- [Using the PDFViewer Component](#using)
 
 <a name='setup'></a>
 ## Setup
@@ -27,6 +27,6 @@
 <a name="using></a>
 ##  Using the PDFViewer Component 
 ### Demo
-![Demo - Using the PDFViewer(img/pdfviewer-3.gif)
+![Demo - Using the PDFViewer](img/pdfviewer-3.gif)
 
 
