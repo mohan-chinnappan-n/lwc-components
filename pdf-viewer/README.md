@@ -3,6 +3,7 @@
 ## Topics
 - [Setup](#setup)
 - [Using the PDFViewer Component](#using)
+- [Component code](#code)
 
 <a name='setup'></a>
 ## Setup
@@ -29,4 +30,10 @@
 ### Demo
 ![Demo - Using the PDFViewer](img/pdfviewer-3.gif)
 
+<a name='code'></a>
+## Component code
+- [pdfViewer.html](./src/force-app/main/lwc/pdfViewer/pdfView.html)
+- [pdfViewer.js](./src/force-app/main/lwc/pdfViewer/pdfView.js)
+- [pdfViewer.js-meta.xml](./src/force-app/main/lwc/pdfViewer/pdfView.js-meta.xml)
+- [pdfViewer.css](./src/force-app/main/lwc/pdfViewer/pdfView.css)
 
