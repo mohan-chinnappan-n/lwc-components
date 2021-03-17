@@ -5,7 +5,7 @@ export default class PdfViewer extends LightningElement {
     @api height;
  
     get pdfHeight() {
-        return this.height + 'rem';
+        return this.height;
     }
     get url() {
         // refer doc: https://github.com/mohan-chinnappan-n/lwc-components/tree/master/pdf-viewer
