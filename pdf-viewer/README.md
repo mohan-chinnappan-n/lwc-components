@@ -2,7 +2,7 @@
 
 ## Topics
 - [Setup](#setup)
-
+- [Using the PDFViewer Component)(#using)
 
 <a name='setup'></a>
 ## Setup
@@ -23,3 +23,10 @@
 - [Content Home](https://mohansun-ea-02-dev-ed.lightning.force.com/lightning/o/ContentDocument/home)
 - [View Link](https://mohansun-ea-02-dev-ed.lightning.force.com/lightning/r/ContentDocument/0693h000007CVFZAA4/view)
 - [Download Link](https://mohansun-ea-02-dev-ed--c.documentforce.com/sfc/servlet.shepherd/document/download/0693h000007CVFZAA4)
+
+<a name="using></a>
+##  Using the PDFViewer Component 
+### Demo
+![Demo - Using the PDFViewer(img/pdfviewer-3.gif)
+
+
