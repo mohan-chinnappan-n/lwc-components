@@ -32,7 +32,7 @@
 
 <a name='code'></a>
 ## Component code
-- [pdfViewer.html](https://github.com/mohan-chinnappan-n/lwc-components/blob/master/pdf-viewer/src/force-app/main/default/lwc/pdfViewer/pdfViewer.html)
+- [pdfViewer.html](src/force-app/main/default/lwc/pdfViewer/pdfViewer.html)
 - [pdfViewer.js](https://github.com/mohan-chinnappan-n/lwc-components/blob/master/pdf-viewer/src/force-app/main/default/lwc/pdfViewer/pdfView.js)
 - [pdfViewer.js-meta.xml](src/force-app/main/default/lwc/pdfViewer/pdfView.js-meta.xml)
 - [pdfViewer.css](src/force-app/main/default/lwc/pdfViewer/pdfViewer.css)
