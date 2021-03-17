@@ -1,6 +1,6 @@
 # LWC - Component to display PDF documents
 
-![Pdf Viewer](img/pdfViewer-1.png)
+![Pdf Viewer](img/pdfViewer-2.png)
 
 
 ## Topics
@@ -40,3 +40,7 @@
 - [pdfViewer.js-meta.xml](src/force-app/main/default/lwc/pdfViewer/pdfViewer.js-meta.xml)
 - [pdfViewer.css](src/force-app/main/default/lwc/pdfViewer/pdfViewer.css)
 
+
+## References
+- [Files Home](https://help.salesforce.com/articleView?id=sf.collab_files_using.htm&type=5)
+- [PDF Viewer Lightning Web Component](https://github.com/annyhe/pdfViewer)
