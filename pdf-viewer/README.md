@@ -6,4 +6,4 @@
 
 <a name='setup'></a>
 ## Setup
-![setup](img/pdf-viewer-1.gif)
+![setup](img/pdfviewer-1.gif)
